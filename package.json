@@ -3,8 +3,8 @@
   "author": "Josh Martin <joshuah.m.martin@gmail.com> (https://joshmartin.work)",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "A typing game to test one's Japanese hiragana typing skills",
-  "repository": "github:HajimeNoJosh/kanabuddy",
+  "description": "A boilerplate for react",
+  "repository": "github:HajimeNoJosh/react-boilerplate",
   "scripts": {
     "start": "npx webpack-dev-server --config internals/webpack/webpack.dev.js --open",
     "start:prod": "webpack-dev-server --config internals/webpack/webpack.prod.js",
